@@ -1,0 +1,57 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+*{
+    padding: 0.25%;
+
+    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.body {
+    background-color: #C4E690;
+    text-align: center;
+}
+
+.titulo1 {
+    font-size: 400%;
+    text-decoration: underline;
+}
+
+.titulo2 {
+    font-size: 200%;
+    text-decoration: underline;
+}
+
+.titulo3 {
+    font-size: 155%;
+}
+
+.p {
+    font-size: 150%;
+}
+
+.list-group {
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+.colorLista{
+    color: black;
+    text-decoration: none;
+    text-align: left;
+}
+
+.div {
+    justify-content: left;
+}
